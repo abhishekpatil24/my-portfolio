@@ -10,6 +10,8 @@ body {
   width: 100%;
   margin: 0%;
   -webkit-tap-highlight-color: transparent;
+  overflow: hidden; /* Hide scrollbars */
+  
 }
 
 h1,
